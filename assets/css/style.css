@@ -182,24 +182,12 @@ hr {
     border-radius: 50%;
 }
 
-.locations-container {
-    text-align: center;
-    display: block;
-}
-
-.locations-container h3 {
-    text-transform: uppercase;
-}
-
-.locations-container li {
-    list-style-type: none;
-}
-
-.card {
-    width: 20%; 
-    background-color: aqua;
-    display: inline-block;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 80px;
+/*event times */
+#times {
+    background-image: url('../images/dublin-city.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100;
+    overflow: hidden;
 }
